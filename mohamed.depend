@@ -1,0 +1,236 @@
+# depslib dependency file v1.0
+1482097316 source:c:\users\mohamed\desktop\mohamed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1481920034 source:e:\mohamed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1482001471 source:f:\mohamed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"functions.h"
+
+1482001046 f:\mohamed\functions.h
+
+1482094791 c:\users\mohamed\desktop\mohamed\functions.h
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+
+1482142639 source:c:\users\mohamed\desktop\mohamed - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1482142722 c:\users\mohamed\desktop\mohamed - copy\functions.h
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+
+1482171003 source:c:\users\mohamed\desktop\mohamed - copy - copy (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1482170488 c:\users\mohamed\desktop\mohamed - copy - copy (2)\functions.h
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+
+1482172342 source:c:\users\mohamed\desktop\this is it - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1482172643 c:\users\mohamed\desktop\this is it - copy\functions.h
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"score.h"
+
+1482171619 c:\users\mohamed\desktop\this is it - copy\score.h
+
+1482323153 source:c:\users\mohamed\desktop\yes it is\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1482256598 c:\users\mohamed\desktop\yes it is\functions.h
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"score.h"
+
+1482249673 c:\users\mohamed\desktop\yes it is\score.h
+
+1482687842 source:c:\users\mohamed\desktop\the game\yes it is\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1482688896 c:\users\mohamed\desktop\the game\yes it is\functions.h
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"score.h"
+
+1482249673 c:\users\mohamed\desktop\the game\yes it is\score.h
+
+1482687842 source:c:\users\mohamed\desktop\c projects\the game\yes it is\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1482688896 c:\users\mohamed\desktop\c projects\the game\yes it is\functions.h
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"score.h"
+
+1482249673 c:\users\mohamed\desktop\c projects\the game\yes it is\score.h
+
+1482696666 source:c:\users\mohamed\desktop\hahahah\yes it is\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1482688896 c:\users\mohamed\desktop\hahahah\yes it is\functions.h
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"score.h"
+
+1482249673 c:\users\mohamed\desktop\hahahah\yes it is\score.h
+
+1482772088 source:c:\users\mohamed\desktop\hahahah - copy (2)\yes it is\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"functions.h"
+
+1482769349 c:\users\mohamed\desktop\hahahah - copy (2)\yes it is\functions.h
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"score.h"
+
+1482249673 c:\users\mohamed\desktop\hahahah - copy (2)\yes it is\score.h
+
